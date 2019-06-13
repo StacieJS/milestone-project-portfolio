@@ -1,0 +1,199 @@
+
+
+/**GRID STYLES**/
+
+
+.container {
+	width: 1240px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+}
+
+.full-width {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 620px;
+    float: right; 
+    clear: both;
+}
+
+/*****BODY STYLES*****/
+
+/**HEADER**/
+
+
+#header {
+	height: 600px;
+    background-image: url("C:/Users/Stacie/Desktop/milestone-website/img/hero-image.png");
+    background-size: cover;
+    padding: 50px 0;
+}
+
+#header h1 {
+	font-family: 'handlee', cursive;
+	text-transform: uppercase;
+	font-size: 50px;
+	color: #bdbf09;
+	text-align: center;
+	padding-top: 210px;
+}
+
+
+#header p {
+	font-family: 'Amaranth', sans-serif;
+	color: #095156;
+	text-align: center;
+	font-size: 30px;
+	padding: 0 250px 25px 250px;
+	margin-top: -10px;
+}
+
+
+/**PORTFOLIO**/
+
+
+#portfolio {
+	height: 1300px;
+	margin-top: -30px;
+
+}
+
+#portfolio .full-width {
+	font-family: 'Amaranth', sans-serif;
+	color: #095156;
+	text-align: center;
+	font-size: 30px;
+	font-weight: normal;
+	padding-top: 20px;
+}
+
+
+#portfolio h5, p {
+	font-family: 'poppins', sans-serif;
+    font-size: 16px;
+    color: #095156; 
+    
+ }
+
+
+
+
+img {
+	padding-top: 20px;
+}
+
+
+/**ABOUT**/
+
+
+#about {
+	background: #087e8b;
+	height: 640px;
+	margin-top: -30px;
+
+}
+
+
+
+#about .full-width {
+	font-family: 'Amaranth', sans-serif;
+	color: #ffffff;
+	font-size: 30px;
+	text-align: center;
+	font-weight: normal;
+	padding-top: 10px;
+	
+	
+}
+
+
+
+#about p {
+	font-family: 'poppins', sans-serif, italic;
+    font-size: 15px;
+    color: #ffffff;
+    padding-right: 125px;
+    
+}
+
+
+#about img {
+	padding-left: 125px;
+	float: left;
+	
+}
+
+
+
+/**FOOTER**/
+
+
+#connect {
+	background: #095156;
+	height: 300px;
+	margin-top: -30px;
+
+}
+
+
+#connect .full-width{
+	font-family: 'Amaranth', sans-serif;
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+	padding-top: 5px;
+	
+	
+}
+
+.hire {
+	float: left;
+	padding: 0 100px 0 300px;
+	margin-top: -40px;
+	
+}
+
+
+.hire h3 {
+	font-family: 'Amaranth', sans-serif;
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: normal;
+}
+
+.hire a {
+	font-family: 'Amaranth', sans-serif;
+	color: #bdbf09;
+	font-size: 20px;
+}
+
+.follow {
+	float: right;
+
+}
+
+
+.follow h3 {
+	font-family: 'Amaranth', sans-serif;
+	color: #ffffff;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 0 300px 0 100px;
+	margin-top: -10px;
+
+}
+
+.follow ul {
+	list-style-type: none;	
+	margin-top: -35px;	
+}
+
+.follow ul li {
+	float: left;
+  	margin: 0 20px;  	
+}
