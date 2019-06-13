@@ -160,16 +160,16 @@ img {
 
 
 .hire h3 {
-	font-family: 'Amaranth', sans-serif;
+	font-family: 'poppins', sans-serif, italic;
 	color: #ffffff;
 	font-size: 30px;
 	font-weight: normal;
 }
 
 .hire a {
-	font-family: 'Amaranth', sans-serif;
+	font-family: 'poppins', sans-serif, italic;
 	color: #bdbf09;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 .follow {
@@ -179,7 +179,7 @@ img {
 
 
 .follow h3 {
-	font-family: 'Amaranth', sans-serif;
+	font-family: 'poppins', sans-serif, italic;
 	color: #ffffff;
 	font-size: 30px;
 	font-weight: normal;
